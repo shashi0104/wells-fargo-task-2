@@ -30,7 +30,6 @@ public class Security {
 	private  int quantity;
 	
 	protected Security() {
-	// TODO Auto-generated constructor stub
 	}
 
 	public Security(String name, Portfolio portfolio, String category, double purchasePrice, LocalDate purchaseDate,
